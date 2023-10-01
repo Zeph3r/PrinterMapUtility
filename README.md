@@ -23,7 +23,7 @@ A PowerShell utility to facilitate the mapping of multiple printers from two pre
 4. Execute the script:
 
 ```powershell
-.\PrintMapUtility.ps1
+.\PrinterMapUtility.ps1
 ```
 Follow the on-screen prompts to select a print server and enter printer names. 
 
