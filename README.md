@@ -17,6 +17,7 @@ By utilizing this utility, you can bid farewell to the tedious, time-consuming p
 - [Mapping Printers](#mapping-printers)
 - [Notes](#notes)
 - [Troubleshooting](#troubleshooting)
+- [License](#license)
 
 
 ## Features
