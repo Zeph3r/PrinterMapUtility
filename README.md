@@ -6,7 +6,6 @@ A PowerShell utility to facilitate the mapping of multiple printers from two pre
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Setup](#setup)
 - [Usage](#usage)
 - [Mapping Printers](#mapping-printers)
 - [Notes](#notes)
