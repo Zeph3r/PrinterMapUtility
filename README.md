@@ -88,3 +88,7 @@ Follow the on-screen prompts to select a print server and enter printer names.
 ```
 
 **Be cautious about bypassing execution policies, especially if you're unsure about a script's source or contents.**
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
