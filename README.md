@@ -2,6 +2,16 @@
 
 A PowerShell utility to facilitate the mapping of multiple printers from two predefined print servers. It provides an interactive menu-driven interface for users to select a print server and then map one or multiple printers in parallel for efficiency.
 
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Mapping Printers](#mapping-printers)
+- [Notes](#notes)
+
+
 ## Features
 
 - Interactive menu to select from two print servers: `testserver1` and `testserver2`.
